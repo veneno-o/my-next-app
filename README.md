@@ -22,6 +22,7 @@ bun dev
 
 Next.js 文档 - 了解 Next.js 的功能和 API。
 学习 Next.js - 一个交互式 Next.js 教程。
+Next.js 打包工具 Turbopack
 您可以查看 Next.js GitHub 仓库 - 我们欢迎您的反馈和贡献！
 
 ## 在 Vercel 上部署
